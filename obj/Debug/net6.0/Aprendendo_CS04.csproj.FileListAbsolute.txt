@@ -1,0 +1,15 @@
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\bin\Debug\net6.0\Aprendendo_CS04.exe
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\bin\Debug\net6.0\Aprendendo_CS04.deps.json
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\bin\Debug\net6.0\Aprendendo_CS04.runtimeconfig.json
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\bin\Debug\net6.0\Aprendendo_CS04.dll
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\bin\Debug\net6.0\Aprendendo_CS04.pdb
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\Aprendendo_CS04.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\Aprendendo_CS04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\Aprendendo_CS04.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\Aprendendo_CS04.AssemblyInfo.cs
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\Aprendendo_CS04.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\Aprendendo_CS04.dll
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\refint\Aprendendo_CS04.dll
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\Aprendendo_CS04.pdb
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\Aprendendo_CS04.genruntimeconfig.cache
+C:\Users\rodri\Desktop\aulas_c_sharp\Estudos_VS_Code\Aprendendo_CS04\obj\Debug\net6.0\ref\Aprendendo_CS04.dll
