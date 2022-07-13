@@ -10,23 +10,25 @@ namespace Aprendendo_CS04
     {
         static void Main (string [] args){
 
-            double xA, xB, xC, yA, yB, yC;
+            Triangulo y , x;
+            x = new Triangulo();
+            y = new Triangulo();
 
             System.Console.WriteLine("Entre com as medidas do triangulo x: ");
-            xA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            xC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             System.Console.WriteLine("Entre com as medidas do triangulo y: ");
-            yA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            yB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (xA + xB + xC ) / 2.0;
-            double areaX = Math.Sqrt(p*(p-xA)*(p-xB)*(p-xC));
+            double p = (x.A + x.B + x.C ) / 2.0;
+            double areaX = Math.Sqrt(p*(p-x.A)*(p-x.B)*(p-x.C));
 
-             p = (yA + yB + yC) / 2.0;
-            double areaY = Math.Sqrt(p*(p-yA)*(p-yB)*(p-yC));
+             p = (y.A + y.B + y.C) / 2.0;
+            double areaY = Math.Sqrt(p*(p-y.A)*(p-y.B)*(p-y.C));
 
             System.Console.WriteLine("Area X possui: " + areaX.ToString("F5"),CultureInfo.InvariantCulture);
             System.Console.WriteLine("Area Y possui: " + areaY.ToString("f5",CultureInfo.InvariantCulture));
@@ -34,7 +36,8 @@ namespace Aprendendo_CS04
             if(areaX > areaY){
                 System.Console.WriteLine("Area X é maior ");
             } else{
-                System.Console.WriteLine("Area Y é Maior");
+                System.Console.WriteLine("Area Y é maior");
+
             }
 
         }       
